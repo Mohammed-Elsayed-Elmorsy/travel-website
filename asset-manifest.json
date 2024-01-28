@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "./static/css/main.99073224.css",
+    "main.js": "./static/js/main.5c826f69.js",
+    "static/media/waterfall_-_37088 (1080p).mp4": "./static/media/waterfall_-_37088 (1080p).b47d2ee6f9db3218aea4.mp4",
+    "static/media/travel.jpg": "./static/media/travel.cb2b3cce3cc98ea9dfc0.jpg",
+    "static/media/pexels-andrei-tanase-1271619.jpg": "./static/media/pexels-andrei-tanase-1271619.5bb8496cbaafddbb4639.jpg",
+    "static/media/pexels-te-lensfix-1371360.jpg": "./static/media/pexels-te-lensfix-1371360.b5f24c12edb5196af750.jpg",
+    "static/media/pexels-nandhu-kumar-450441.jpg": "./static/media/pexels-nandhu-kumar-450441.19a34bec9b119045f056.jpg",
+    "static/media/travel1.jpg": "./static/media/travel1.4f4421b53f474add1376.jpg",
+    "static/media/pexels-pixabay-38238.jpg": "./static/media/pexels-pixabay-38238.05c2d2ed86f878a60b95.jpg",
+    "index.html": "./index.html",
+    "main.99073224.css.map": "./static/css/main.99073224.css.map",
+    "main.5c826f69.js.map": "./static/js/main.5c826f69.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99073224.css",
+    "static/js/main.5c826f69.js"
+  ]
+}
